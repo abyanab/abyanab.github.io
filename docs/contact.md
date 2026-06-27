@@ -20,13 +20,12 @@ Feel free to reach out through any of the channels below.
 
 ---
 
-| | |
+| Platform | URL |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [abyan_ab@yahoo.co.id](mailto:abyan_ab@yahoo.co.id) |
+| :fontawesome-brands-github: **GitHub** | [github.com/abyanab](https://github.com/abyanab) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/abyan-abdan](https://linkedin.com/in/abyan-abdan) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/abyan-CV.pdf){ .md-button .md-button--primary }

@@ -17,7 +17,7 @@ hide:
 
 - Supervised coal getting, hauling, and shipment, and conducted sample collection at each stage of the process.
 - Initiated and developed standard operating procedures for coal laboratory operations, including sample preparation, proximate analysis, data management, and consumable inventory management — recording more than 2,000 coal analyses in a single year.
-- Implemented rigorous quality control procedures that increased coal production from 0.8 million MT in 2023 to 4.6 million MT in 2025 (+300% then +44% YoY) with zero product rejection.
+- Implemented rigorous quality control procedures that increased coal production from 0.8 million Metric Tonnes in 2023 to 4.6 million Metric Tonnes in 2025 (+300% then +44% YoY) with zero product rejection.
 - Managed database and produced reports in the form of graphs and maps to support business decision-making.
 
 </div>
@@ -39,7 +39,7 @@ hide:
 
 - Collected satellite imagery and geospatial datasets, performed spatial analysis, managed geodatabases, and produced final maps with geological interpretations.
 - Collaborated with the IT division to develop machine learning workflows for geoscience applications.
-- Worked within a multidisciplinary team of nine professionals spanning GIS, Remote Sensing, Geochemistry, Economic Geology, Geophysics, and Machine Learning.
+- Worked within a multidisciplinary team of nine professionals: GIS, Remote Sensing, Geochemistry, Economic Geology, Geophysics, and Machine Learning.
 
 </div>
 
@@ -68,10 +68,10 @@ hide:
 
 ## Education
 
-### Bachelor of Engineering (S.T.) in Geological Engineering
-**Universitas Gadjah Mada, Faculty of Engineering** | *2019*
+### Bachelor of Engineering (Sarjana Teknik) in Geological Engineering
+**Universitas Gadjah Mada, Faculty of Engineering** | *2014-2019*
 
-Bachelor thesis focused on kaolin identification using ASTER satellite imagery analysis in Bangka Belitung Province, Indonesia.
+Bachelor thesis focused on kaolin identification using ASTER satellite imagery and X-Ray Diffraction analysis in Bangka Belitung Province, Indonesia.
 
 ---
 
@@ -95,5 +95,5 @@ Bachelor thesis focused on kaolin identification using ASTER satellite imagery a
 
 ## Publications
 
-- Abyan Abdan et al. (2019). *Identifikasi Kaolin Berdasarkan Analisis Citra ASTER di Daerah Kelabat, Kab. Bangka Barat, Provinsi Kepulauan Bangka Belitung.* Prosiding Seminar Nasional Kebumian Geoweek ke-12.
-- Arif Muchlisin et al. (2019). *Magmagama Expedition: The Secret of Bromo.* Gadjah Mada University Press.
+- Abdan, A., Setianto, A., and Titisari, D.A. (2019). *Identifikasi Kaolin Berdasarkan Analisis Citra ASTER di Daerah Kelabat, Kab. Bangka Barat, Provinsi Kepulauan Bangka Belitung.* Prosiding Seminar Nasional Kebumian Geoweek ke-12.
+- Muchlisin, A., et al. (2019). *Magmagama Expedition: The Secret of Bromo.* Gadjah Mada University Press.
