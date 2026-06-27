@@ -69,7 +69,7 @@ I am a geologist with demonstrated experience in GIS and Remote Sensing applied 
 
     ---
 
-    - Softwares — QGIS, ArcGIS Desktop, ArcGIS Pro, Global Mapper, ESA SNAP, ENVI, GDAL
+    - Softwares — QGIS, ArcGIS Desktop, ArcGIS Pro, Global Mapper, ENVI
     - Imageries — LANDSAT, ASTER, UAV
 
 -   :material-code-braces:{ .lg .middle } **Programming**
