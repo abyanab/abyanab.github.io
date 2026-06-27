@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="abyan" class="profile-photo">
+  <h1>Abyan Abdan</h1>
+  <p><strong>Geologist & Geospatial Developer</strong></p>
+  <p><em>[ Geology | Natural Resources | GIS | Remote Sensing | Geospatial Data Science ]</em></p>
 </div>
 
 ---
@@ -32,15 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a geologist with demonstrated experience in GIS and Remote Sensing applied to natural resource exploration and energy industry. I have worked in multidisciplinary roles and international environments, using geospatial data to support the evidence-based decision-making and the sustainable management of natural resources. I seek to strengthen my technical skills and contribute to the innovation of geospatial solutions with global impact.
 
 </div>
 
@@ -53,7 +45,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/abyan-CV.pdf){ .md-button }
 
 
 ---
@@ -62,20 +54,29 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
+-   :material-earth:{ .lg .middle } **Geological Engineering**
+
+    ---
+
+    - Natural Resources — Energy, Metals, Industrial Mineral
+    - Field Geology — Mapping, Rock Sampling, Regional Exploration
+    - Geological Database, Mining Operation, Quality Control, Cargo Shipment
+    - Laboratory Analysis — Coal Proximate Analysis, X-Ray Diffraction, Petrography
+    - Data Analysis & Visualisation — Graphs and Maps
+    - Geoenvironmental — Acid Mine Drainage, Waste Rock Management
+
 -   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Softwares — QGIS, ArcGIS Desktop, ArcGIS Pro, Global Mapper, ESA SNAP, ENVI, GDAL
+    - Imageries — LANDSAT, ASTER, UAV
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — Pandas, GeoPandas, NumPy, Matplotlib
     - R — sf, terra, ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
@@ -98,14 +99,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
@@ -118,5 +111,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/abyanab){ .md-button }
+[LinkedIn](https://linkedin.com/in/abyan-abdan){ .md-button }
