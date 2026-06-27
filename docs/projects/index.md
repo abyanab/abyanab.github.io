@@ -19,6 +19,32 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
+![](../assets/images/f1-postervisualization.png)
+
+**F1 Circuits 2026(f1-circuit-2026.ipnyb)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.]
+
+`Jupyter Notebook` `Python` `Geopandas`
+
+[View Project →](f1-circuit-2026.ipnyb){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/riverbasin-idbasin)
+
+**Indonesia River Basin(indonesia-river-basin.ipnyb)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.]
+
+`Jupyter Notebook` `Python` `Geopandas`
+
+[View Project →](indonesia-river-basin.ipnyb){ .md-button }
+</div>
+
+<div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
 **[Sample Project](sample-project.md)**

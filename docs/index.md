@@ -45,7 +45,7 @@ I am a geologist with demonstrated experience in GIS and Remote Sensing applied 
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/abyan-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/pdf/abyanabdan-CV.pdf){ .md-button }
 
 
 ---

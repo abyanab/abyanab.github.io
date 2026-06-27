@@ -77,6 +77,8 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
+    - "F1 Circuits 2026": projects/f1-circuit-2026.ipynb
+    - "Indonesia River Basin": projects/indonesia-river-basin.ipynb
     - "Sample Project": projects/sample-project.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
@@ -85,6 +87,5 @@ nav:
     # 2. Edit the new file with your project content
     # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
     # 4. Add a project card on docs/projects/index.md
-  - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

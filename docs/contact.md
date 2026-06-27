@@ -28,4 +28,4 @@ Feel free to reach out through any of the channels below.
 
 ---
 
-[Download CV :material-download:](assets/abyan-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/pdf/cv-abyanabdan.pdf){ .md-button .md-button--primary }
